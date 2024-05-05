@@ -12,17 +12,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peachey2k2">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peachey2k2&theme=apprentice">
 </p>
 
 <p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=peachey2k2&show_icons=true">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=peachey2k2&langs_count=3">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=peachey2k2&show_icons=true&theme=apprentice">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=peachey2k2&langs_count=3&theme=apprentice">
 </p>
 
 | <h1> My Games </h1> | <h1> My Godot Plugins </h1> |
 |---|---|
-| <p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=oniki"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=ascii-puzzle-game"> <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo="> --> </p> | <p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=cheys-background-addon"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=godotstg"> </p> |
+| <p align="center"> [![peachey2k2/oniki](https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=oniki&theme=apprentice)](https://github.com/peachey2k2/oniki) [![peachey2k2/ascii-puzzle-game](https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=ascii-puzzle-game&theme=apprentice)](https://github.com/peachey2k2/ascii-puzzle-game) </p> | <p align="center"> [![peachey2k2/cheys-background-addon](https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=cheys-background-addon&theme=apprentice)](https://github.com/peachey2k2/cheys-background-addon) [![peachey2k2/godotstg](https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=godotstg&theme=apprentice)](https://github.com/peachey2k2/godotstg) </p> |
 
 <!--
 <p align="center">
