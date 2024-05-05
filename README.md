@@ -7,20 +7,25 @@
   </a>
 </p>
 
-I make games.
+<p align="center">
+  I'm a second year Computer Engineering student mainly focusing on game development. I also make plugins to be used in the Godot engine. All my games are open source.
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=peachey2k2">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peachey2k2&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peachey2k2&langs_count=3">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=peachey2k2&show_icons=true">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=peachey2k2&langs_count=3">
 </p>
 
+| <h1> My Games </h1> | <h1> My Godot Plugins </h1> |
+|---|---|
+| <p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=oniki"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=ascii-puzzle-game"> <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo="> --> </p> | <p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=cheys-background-addon"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=godotstg"> </p> |
 
-
-
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=peachey2k2&row=1">
 </p>
+-->
