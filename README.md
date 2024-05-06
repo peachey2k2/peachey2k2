@@ -20,9 +20,9 @@
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=peachey2k2&langs_count=3&theme=apprentice">
 </p>
 
-| <h1> My Games </h1> | <h1> My Godot Plugins </h1> |
+| <h3> My Games </h3> | <h3> My Godot Plugins </h3> |
 |---|---|
-| <p align="center"> [![peachey2k2/oniki](https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=oniki&theme=apprentice)](https://github.com/peachey2k2/oniki) [![peachey2k2/ascii-puzzle-game](https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=ascii-puzzle-game&theme=apprentice)](https://github.com/peachey2k2/ascii-puzzle-game) </p> | <p align="center"> [![peachey2k2/cheys-background-addon](https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=cheys-background-addon&theme=apprentice)](https://github.com/peachey2k2/cheys-background-addon) [![peachey2k2/godotstg](https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=godotstg&theme=apprentice)](https://github.com/peachey2k2/godotstg) </p> |
+| <p align="center"> [![peachey2k2/oniki](https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=oniki&theme=apprentice&description_lines_count=3)](https://github.com/peachey2k2/oniki) [![peachey2k2/ascii-puzzle-game](https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=ascii-puzzle-game&theme=apprentice&description_lines_count=3)](https://github.com/peachey2k2/ascii-puzzle-game) </p> | <p align="center"> [![peachey2k2/cheys-background-addon](https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=cheys-background-addon&theme=apprentice&description_lines_count=3)](https://github.com/peachey2k2/cheys-background-addon) [![peachey2k2/godotstg](https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=godotstg&theme=apprentice&description_lines_count=3)](https://github.com/peachey2k2/godotstg) </p> |
 
 <!--
 <p align="center">
