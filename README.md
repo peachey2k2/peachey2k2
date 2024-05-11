@@ -20,9 +20,39 @@
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=peachey2k2&langs_count=3&theme=apprentice">
 </p>
 
-| <h3> My Games </h3> | <h3> My Godot Plugins </h3> |
-|---|---|
-| <p align="center"> [![peachey2k2/oniki](https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=oniki&theme=apprentice&description_lines_count=3)](https://github.com/peachey2k2/oniki) [![peachey2k2/ascii-puzzle-game](https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=ascii-puzzle-game&theme=apprentice&description_lines_count=3)](https://github.com/peachey2k2/ascii-puzzle-game) </p> | <p align="center"> [![peachey2k2/cheys-background-addon](https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=cheys-background-addon&theme=apprentice&description_lines_count=3)](https://github.com/peachey2k2/cheys-background-addon) [![peachey2k2/godotstg](https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=godotstg&theme=apprentice&description_lines_count=3)](https://github.com/peachey2k2/godotstg) </p> |
+<h2 align="center">
+  Games
+</h2>
+<p align="center">
+  <a href="https://github.com/peachey2k2/oniki">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=oniki&theme=apprentice&description_lines_count=3">
+  </a>
+  <a href="https://github.com/peachey2k2/ascii-puzzle-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=ascii-puzzle-game&theme=apprentice&description_lines_count=3">
+  </a>
+</p>
+
+
+<h2 align="center">
+  Godot Plugins
+</h2>
+<p align="center">
+  <a href="https://github.com/peachey2k2/cheys-background-addon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=cheys-background-addon&theme=apprentice&description_lines_count=3">
+  </a>
+  <a href="https://github.com/peachey2k2/godotstg">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=godotstg&theme=apprentice&description_lines_count=3">
+  </a>
+</p>
+
+<h2 align="center">
+  Other Projects
+</h2>
+<p align="center">
+  <a href="https://github.com/peachey2k2/aoc-godot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=aoc-godot&theme=apprentice&description_lines_count=3">
+  </a>
+</p>
 
 <!--
 <p align="center">
