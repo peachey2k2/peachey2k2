@@ -21,7 +21,7 @@
 </p>
 
 <h2 align="center">
-  Games
+  - Games -
 </h2>
 <p align="center">
   <a href="https://github.com/peachey2k2/oniki">
@@ -34,7 +34,7 @@
 
 
 <h2 align="center">
-  Godot Plugins
+  - Godot Plugins -
 </h2>
 <p align="center">
   <a href="https://github.com/peachey2k2/cheys-background-addon">
@@ -46,7 +46,7 @@
 </p>
 
 <h2 align="center">
-  Other Projects
+  - Other Projects -
 </h2>
 <p align="center">
   <a href="https://github.com/peachey2k2/aoc-godot">
