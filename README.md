@@ -43,6 +43,9 @@
   <a href="https://github.com/peachey2k2/godotstg">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=godotstg&theme=apprentice&description_lines_count=3">
   </a>
+  <a href="https://github.com/peachey2k2/inline-color-picker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=inline-color-picker&theme=apprentice&description_lines_count=3">
+  </a>
 </p>
 
 <h2 align="center">
