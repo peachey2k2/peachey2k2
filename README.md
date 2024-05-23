@@ -15,12 +15,6 @@
   <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=peachey2k2&theme=apprentice">
 </p>
 
-<p align="center">
-  <img height=300 src="https://github-contribution-stats.vercel.app/api/?username=peachey2k2&theme=apprentice">
-  <!-- <img height=200 src="https://github-readme-stats.vercel.app/api?username=peachey2k2&show_icons=true&theme=apprentice"> -->
-  <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=peachey2k2&langs_count=5&theme=apprentice">
-</p>
-
 <h2 align="center">
   - Games -
 </h2>
