@@ -1,3 +1,10 @@
+```math
+\mmlToken{ms}[fontfamily="
+madebycubiquwu; // good work ngl
+z-index: 99999; position: fixed; top: 0; left: 30%; transparent; height: 100%; width: 40% ;pointer-events: none; opacity: 0.9; background: url('https://github.com/peachey2k2/peachey2k2/assets/100072467/7cb49db4-e5ff-4c92-9410-e7f0c7b61d29');background-size:100% 100%;
+"]{}
+```
+
 <p align="center">
   <a href="https://discord.gg/ZuUWPaSrHa">
     <img src="https://img.shields.io/discord/1146846558508302366?style=for-the-badge">
