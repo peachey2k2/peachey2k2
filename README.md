@@ -1,9 +1,3 @@
-```math
-\mmlToken{ms}[fontfamily="
-madebycubiquwu; // good work ngl
-z-index: 99999; position: fixed; top: 0; left: 0; transparent; height: 100%; width: 100% ;pointer-events: none; opacity: 0.9; background: url('https://github.com/peachey2k2/peachey2k2/assets/100072467/d2f25a32-3f11-417d-a4b6-80c48b388ca2');background-size:100% 100%;
-"]{}
-```
 <p align="center">
   <a href="https://discord.gg/ZuUWPaSrHa">
     <img src="https://img.shields.io/discord/1146846558508302366?style=for-the-badge">
@@ -63,3 +57,7 @@ z-index: 99999; position: fixed; top: 0; left: 0; transparent; height: 100%; wid
   <img src="https://github-profile-trophy.vercel.app/?username=peachey2k2&row=1">
 </p>
 -->
+
+<p align="center">
+  <img height=1 src="https://github.com/peachey2k2/peachey2k2/assets/100072467/d2f25a32-3f11-417d-a4b6-80c48b388ca2">
+</p>
