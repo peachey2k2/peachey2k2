@@ -50,6 +50,9 @@
   - Other Projects -
 </h2>
 <p align="center">
+  <a href="https://github.com/peachey2k2/etanks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=etanks&theme=apprentice&description_lines_count=3">
+  </a>
   <a href="https://github.com/peachey2k2/aoc-godot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=aoc-godot&theme=apprentice&description_lines_count=3">
   </a>
