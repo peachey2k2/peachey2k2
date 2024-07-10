@@ -8,12 +8,34 @@
 </p>
 
 <p align="center">
-  I'm a second year Computer Engineering student mainly focusing on game development. I also make plugins to be used in the Godot engine. All my games are open source.
+  I'm a second year Computer Engineering student mainly focusing on game development. I also make plugins to be used in the Godot engine. Most of my work is open source.
 </p>
 
 <p align="center">
   <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=peachey2k2&theme=apprentice">
 </p>
+
+<!-- -->
+### Games
+[oniki](https://github.com/peachey2k2/oniki) - An open-source bullet-hell RPG made with Godot (wip)
+
+[ascii-puzzle-game ](https://github.com/peachey2k2/ascii-puzzle-game) - A simple puzzle game with ascii graphics (wip)
+
+### Godot Plugins
+[cheys-background-addon](https://github.com/peachey2k2/cheys-background-addon) - A simple plugin to put a background image behind your Godot editor
+
+[godotstg](https://github.com/peachey2k2/godotstg) -  A Godot plugin that offers an easy way to make STG battles/games (wip)
+
+[inline-color-picker](https://github.com/peachey2k2/inline-color-picker) - Simple plugin that adds a color picker button next to the colors defined in your code
+
+[cheys-visual-movie-maker](https://github.com/peachey2k2/cheys-visual-movie-maker) - A video editor that lets you make videos using Godot's features (wip)
+
+### Other Stuff
+[etanks](https://github.com/peachey2k2/etanks) - Simple ComputerCraft program to keep track of your ender tanks 
+
+[aoc-godot](https://github.com/peachey2k2/aoc-godot) - Scripts I wrote for Advent of Code 
+
+<!-- Old layout. Too bulky.
 
 <h2 align="center">
   - Games -
@@ -57,6 +79,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=aoc-godot&theme=apprentice&description_lines_count=3">
   </a>
 </p>
+
+-->
 
 <!--
 <p align="center">
