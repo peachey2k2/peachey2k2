@@ -16,12 +16,16 @@
 </p>
 
 <!-- -->
-### Games
+<h3 align="center">
+  Games
+</h3>
 [oniki](https://github.com/peachey2k2/oniki) - An open-source bullet-hell RPG made with Godot (wip)
 
 [ascii-puzzle-game ](https://github.com/peachey2k2/ascii-puzzle-game) - A simple puzzle game with ascii graphics (wip)
 
-### Godot Plugins
+<h3 align="center">
+  Godot Plugins
+</h3>
 [cheys-background-addon](https://github.com/peachey2k2/cheys-background-addon) - A simple plugin to put a background image behind your Godot editor
 
 [godotstg](https://github.com/peachey2k2/godotstg) -  A Godot plugin that offers an easy way to make STG battles/games (wip)
@@ -30,63 +34,12 @@
 
 [cheys-visual-movie-maker](https://github.com/peachey2k2/cheys-visual-movie-maker) - A video editor that lets you make videos using Godot's features (wip)
 
-### Other Stuff
+<h3 align="center">
+  Other Stuff
+</h3>
 [etanks](https://github.com/peachey2k2/etanks) - Simple ComputerCraft program to keep track of your ender tanks 
 
 [aoc-godot](https://github.com/peachey2k2/aoc-godot) - Scripts I wrote for Advent of Code 
-
-<!-- Old layout. Too bulky.
-
-<h2 align="center">
-  - Games -
-</h2>
-<p align="center">
-  <a href="https://github.com/peachey2k2/oniki">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=oniki&theme=apprentice&description_lines_count=3">
-  </a>
-  <a href="https://github.com/peachey2k2/ascii-puzzle-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=ascii-puzzle-game&theme=apprentice&description_lines_count=3">
-  </a>
-</p>
-
-
-<h2 align="center">
-  - Godot Plugins -
-</h2>
-<p align="center">
-  <a href="https://github.com/peachey2k2/cheys-background-addon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=cheys-background-addon&theme=apprentice&description_lines_count=3">
-  </a>
-  <a href="https://github.com/peachey2k2/godotstg">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=godotstg&theme=apprentice&description_lines_count=3">
-  </a>
-  <a href="https://github.com/peachey2k2/inline-color-picker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=inline-color-picker&theme=apprentice&description_lines_count=3">
-  </a>
-  <a href="https://github.com/peachey2k2/cheys-visual-movie-maker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=cheys-visual-movie-maker&theme=apprentice&description_lines_count=3">
-  </a>
-</p>
-
-<h2 align="center">
-  - Other Projects -
-</h2>
-<p align="center">
-  <a href="https://github.com/peachey2k2/etanks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=etanks&theme=apprentice&description_lines_count=3">
-  </a>
-  <a href="https://github.com/peachey2k2/aoc-godot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=peachey2k2&repo=aoc-godot&theme=apprentice&description_lines_count=3">
-  </a>
-</p>
-
--->
-
-<!--
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=peachey2k2&row=1">
-</p>
--->
 
 <p align="center">
   <img height=1 src="https://github.com/peachey2k2/peachey2k2/assets/100072467/d2f25a32-3f11-417d-a4b6-80c48b388ca2">
