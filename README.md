@@ -19,6 +19,7 @@
 <h3 align="center">
   Games
 </h3>
+
 [oniki](https://github.com/peachey2k2/oniki) - An open-source bullet-hell RPG made with Godot (wip)
 
 [ascii-puzzle-game ](https://github.com/peachey2k2/ascii-puzzle-game) - A simple puzzle game with ascii graphics (wip)
@@ -26,6 +27,7 @@
 <h3 align="center">
   Godot Plugins
 </h3>
+
 [cheys-background-addon](https://github.com/peachey2k2/cheys-background-addon) - A simple plugin to put a background image behind your Godot editor
 
 [godotstg](https://github.com/peachey2k2/godotstg) -  A Godot plugin that offers an easy way to make STG battles/games (wip)
@@ -37,6 +39,7 @@
 <h3 align="center">
   Other Stuff
 </h3>
+
 [etanks](https://github.com/peachey2k2/etanks) - Simple ComputerCraft program to keep track of your ender tanks 
 
 [aoc-godot](https://github.com/peachey2k2/aoc-godot) - Scripts I wrote for Advent of Code 
