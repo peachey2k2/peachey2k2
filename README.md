@@ -11,10 +11,6 @@
   I'm a second year Computer Engineering student mainly focusing on game development. I also make plugins to be used in the Godot engine. Most of my work is open source.
 </p>
 
-<p align="center">
-  <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=peachey2k2&theme=apprentice">
-</p>
-
 <!-- -->
 <h3 align="center">
   Games
