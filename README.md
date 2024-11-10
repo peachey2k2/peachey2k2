@@ -18,7 +18,7 @@
 
 [oniki](https://github.com/peachey2k2/oniki) - An open-source bullet-hell RPG made with Godot (wip)
 
-[ascii-puzzle-game ](https://github.com/peachey2k2/ascii-puzzle-game) - A simple puzzle game with ascii graphics (wip)
+[ascii-puzzle-game](https://github.com/peachey2k2/ascii-puzzle-game) - A simple puzzle game with ascii graphics (wip)
 
 <h3 align="center">
   Godot Plugins
