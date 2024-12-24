@@ -38,7 +38,7 @@
 
 [etanks](https://github.com/peachey2k2/etanks) - Simple ComputerCraft program to keep track of your ender tanks 
 
-[aoc-godot](https://github.com/peachey2k2/aoc-godot) - Scripts I wrote for Advent of Code 
+[advent-of-code](https://github.com/peachey2k2/advent-of-code) - Scripts I wrote for Advent of Code 
 
 <p align="center">
   <img height=1 src="https://github.com/peachey2k2/peachey2k2/assets/100072467/d2f25a32-3f11-417d-a4b6-80c48b388ca2">
