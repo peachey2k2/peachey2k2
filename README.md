@@ -8,8 +8,13 @@
 </p>
 
 <p align="center">
-  I'm a second year Computer Engineering student mainly focusing on game development. I also make plugins to be used in the Godot engine. Most of my work is open source.
+  <a href="https://github.com/peachey2k2/nixos">system</a>
+  <a href="https://github.com/peachey2k2/nixos/tree/master/configs">dotfiles</a>
+  <br>
+  I'm a third year Computer Engineering student mainly focusing on game development. I also make plugins to be used in the Godot engine. Most of my work is open source.
 </p>
+
+
 
 <!-- -->
 <h3 align="center">
@@ -36,10 +41,6 @@
   Other Stuff
 </h3>
 
-[etanks](https://github.com/peachey2k2/etanks) - Simple ComputerCraft program to keep track of your ender tanks 
+[etanks](https://github.com/peachey2k2/etanks) - Simple ComputerCraft program to keep track of your ender tanks
 
-[advent-of-code](https://github.com/peachey2k2/advent-of-code) - Scripts I wrote for Advent of Code 
-
-<p align="center">
-  <img height=1 src="https://github.com/peachey2k2/peachey2k2/assets/100072467/d2f25a32-3f11-417d-a4b6-80c48b388ca2">
-</p>
+[advent-of-code](https://github.com/peachey2k2/advent-of-code) - Scripts I wrote for Advent of Code
