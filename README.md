@@ -11,36 +11,6 @@
   <a href="https://github.com/peachey2k2/nixos">system</a>
   <a href="https://github.com/peachey2k2/nixos/tree/master/configs">dotfiles</a>
   <br>
-  I'm a third year Computer Engineering student mainly focusing on game development. I also make plugins to be used in the Godot engine. Most of my work is open source.
+  4th year Computer Engineering student. I usually fiddle with Godot, Rust and whatever interests me.
 </p>
 
-
-
-<!-- -->
-<h3 align="center">
-  Games
-</h3>
-
-[oniki](https://github.com/peachey2k2/oniki) - An open-source bullet-hell RPG made with Godot (wip)
-
-[ascii-puzzle-game](https://github.com/peachey2k2/ascii-puzzle-game) - A simple puzzle game with ascii graphics (wip)
-
-<h3 align="center">
-  Godot Plugins
-</h3>
-
-[cheys-background-addon](https://github.com/peachey2k2/cheys-background-addon) - A simple plugin to put a background image behind your Godot editor
-
-[godotstg](https://github.com/peachey2k2/godotstg) -  A Godot plugin that offers an easy way to make STG battles/games (wip)
-
-[inline-color-picker](https://github.com/peachey2k2/inline-color-picker) - Simple plugin that adds a color picker button next to the colors defined in your code
-
-[cheys-visual-movie-maker](https://github.com/peachey2k2/cheys-visual-movie-maker) - A video editor that lets you make videos using Godot's features (wip)
-
-<h3 align="center">
-  Other Stuff
-</h3>
-
-[etanks](https://github.com/peachey2k2/etanks) - Simple ComputerCraft program to keep track of your ender tanks
-
-[advent-of-code](https://github.com/peachey2k2/advent-of-code) - Scripts I wrote for Advent of Code
