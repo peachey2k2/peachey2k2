@@ -9,5 +9,6 @@
   <a href="https://github.com/peachey2k2/nixos/tree/master/configs">dotfiles</a>
   <br>
   4th year Computer Engineering student. I usually fiddle with Godot, Rust, Assembly and whatever interests me.
+  <br>
+  <code>@tukaytu:2k2pea.ch</code> on matrix for contact
 </p>
-
