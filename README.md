@@ -10,5 +10,6 @@
   <br>
   4th year Computer Engineering student. I usually fiddle with Godot, Rust, Assembly and whatever interests me.
   <br>
+  <br>
   <code>@tukaytu:2k2pea.ch</code> on matrix for contact
 </p>
